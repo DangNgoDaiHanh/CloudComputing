@@ -30,7 +30,7 @@ session_start();
     bg-dark">
     <div class="container-fluid">
         <a href="index.php" class="navbar-brand">
-            <img src="../ASM2COUD/images/toylogo1.png" alt="" width="130px" height="130px"></a>
+            <img src="./images/toylogo1.png" alt="" width="130px" height="130px"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
             <span class="navbar-toggler-icon"></span>
         </button>
