@@ -31,12 +31,10 @@ include_once 'header.php';
                 // $name = $_GET['search'];
                 // <1>
                 $re = $dblink->query($sql);
-
                 $re->data_seek(0);
                 if ($re->num_rows > 0) :
                     while ($row = $re->fetch_assoc()) :
                 ?>
-
                         <div class="col-lg-4 pb-3">
                             <div class="card">
                                 <img src="./images/<?= $row['Image'] ?>" class="card-img-top" alt="Product1>" style="margin: auto;
