@@ -29,8 +29,8 @@ session_start();
 <nav class="navbar navbar-expand-md navbar-dark 
     bg-dark">
     <div class="container-fluid">
-        <a href="http://localhost:8080/simpleweb/index.php" class="navbar-brand">
-            <img src="../simpleweb/images/toylogo1.png" alt="" width="130px" height="130px"></a>
+        <a href="index.php" class="navbar-brand">
+            <img src="../ASM2COUD/images/toylogo1.png" alt="" width="130px" height="130px"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
             <span class="navbar-toggler-icon"></span>
         </button>
