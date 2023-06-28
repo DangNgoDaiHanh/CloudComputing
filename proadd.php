@@ -74,7 +74,7 @@
                                 </tr>
                                 <div class="form-group">
                                 <tr>
-                                    <th style="font-size: 20px;">PCartID:</th>
+                                    <th style="font-size: 20px;">PCategoryID:</th>
                                         <td><input type="text" name="pCart_id" value="" style="width: 500px; height:40px; font-size: 20px; margin: auto;"></td>
                                 </tr> 
                             </table> 
